@@ -1,0 +1,297 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+}
+
+/* main style */
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    max-width: 1280px;
+    margin: 0px auto;
+    padding: 40px;
+}
+
+/* main-content style */
+.main-content{
+background-color: #FFFFFF;
+/* width: 1200px;
+margin-right: 40px;
+margin-top: 40px; */
+box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+padding: 105px 90px;
+}
+
+/* sitebar style */
+.site-bar{
+    background-color: #1E2939;
+    width: 370px;
+    padding-top: 40px;
+}
+
+.photo{
+width: 370px;
+padding-bottom: 50px;
+
+}
+
+.sitebar-title{
+    color: #FFFFFF;  
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.sitebar-subtitle{
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 5px;
+}
+
+.contacts{
+    margin-left: 40px;
+    margin-bottom: 50px;
+    
+}
+
+.contact-type{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;  
+    margin-right: 5px;
+}
+
+.contact-link{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #8E949C;
+}
+
+
+.tech-skills{
+    margin-left: 40px;
+    margin-bottom: 45px;
+	 font-size: 20px;
+}
+
+.tech-skills-list{
+    padding: 0px;
+    margin-left: 15px;
+}
+
+.tech-skills-item{
+    color:  #FB6D3A;
+}
+
+.tech-skills-text{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.soft-skills {
+    margin-left: 40px;
+}
+
+.soft-skills-list {
+    padding: 0px;
+    margin-left: 15px;
+}
+
+.soft-skills-item {
+    color: #FB6D3A;
+}
+
+.soft-skills-text {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
+
+
+.about{
+    width: 400px;
+    margin-bottom: 40px;
+}
+
+.about-h2{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.about-h1 {
+font-weight: 700;
+font-size: 45px;
+line-height: 55px;
+color: #000000;
+margin-bottom: 25px;
+}
+
+
+/* projects section style */
+.projects{
+   margin-bottom: 50px;
+   }
+
+.project-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.project-list{
+    padding: 0px;
+    margin-left: 15px;
+}
+
+.project-list-item{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.project-link{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 10px;
+}
+
+.project-tech{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+
+/* work section style */
+.work{
+      margin-bottom: 45px;
+}
+
+.work-title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+.Company{
+margin-bottom: 20px;
+}
+
+.job-title{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.job-title-colored{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+.job-time{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 10px;
+}
+.job-time-colored{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+.responsibility-list{
+    padding: 0px;
+    margin-left: 15px;
+}
+.responsibility-items{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.responsibility-text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+/* Education section style */
+.education{
+   }
+
+.education-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.education-inst{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.education-faculcy{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.education-period{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.education-period-colored{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+/*  
+
+li{
+    background-color: yellow;
+}
+h3{
+    color: blueviolet;
+}
+*/
